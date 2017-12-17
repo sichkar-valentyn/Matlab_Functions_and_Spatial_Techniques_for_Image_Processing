@@ -1,2 +1,27 @@
 # Matlab_Functions_and_Spatial_Techniques_for_Image_Processing
 Spatial techniques for image processing in Matlab
+
+## Description
+Learning Matlab's functions for Spatial image processing techniques
+
+## Dividing an Image by a Constant Factor y = x/2
+![Results](images/Dividing_an_Image_by_a_Constant_Factor.png)
+
+## Enhancing contrast using histogram equalization
+![Results](images/Enhancing_contrast_using_histogram_equalization.png)
+
+## Getting histogram of image data
+![Results](images/Getting_histogram_of_image_data.png)
+
+## Showing Adjust Contrast Tool for the image
+![Results](images/Showing_Adjust_Contrast_tool_for_the_image.png)
+
+## Complementing the image
+![Results](images/Complementing_the_image.png)
+
+## Adjusting image intensity values using gamma
+![Results](images/Adjusting_image_intensity_values_using_gamma.png)
+
+## MIT License
+## Copyright (c) 2017 Valentyn N Sichkar
+## github.com/sichkar-valentyn
