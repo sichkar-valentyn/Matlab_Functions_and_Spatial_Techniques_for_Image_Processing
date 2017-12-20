@@ -1,6 +1,9 @@
 # Matlab_Functions_and_Spatial_Techniques_for_Image_Processing
 Spatial techniques for image processing in Matlab
 
+### Reference to:
+[1] Valentyn N Sichkar. Spatial techniques for image processing in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_Functions_and_Spatial_Techniques_for_Image_Processing (date of access: XX.XX.XXXX)
+
 ## Description
 Learning Matlab's functions for Spatial image processing techniques
 
@@ -25,3 +28,5 @@ Learning Matlab's functions for Spatial image processing techniques
 ## MIT License
 ## Copyright (c) 2017 Valentyn N Sichkar
 ## github.com/sichkar-valentyn
+### Reference to:
+[1] Valentyn N Sichkar. Spatial techniques for image processing in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_Functions_and_Spatial_Techniques_for_Image_Processing (date of access: XX.XX.XXXX)
