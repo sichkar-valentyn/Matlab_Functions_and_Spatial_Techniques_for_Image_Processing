@@ -1,4 +1,4 @@
-# Matlab_Functions_and_Spatial_Techniques_for_Image_Processing
+# Matlab Functions and Spatial Techniques for Image_Processing
 Spatial techniques for image processing in Matlab
 
 ### Reference to:
