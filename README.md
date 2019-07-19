@@ -1,9 +1,6 @@
 # Matlab Functions and Spatial Techniques for Image Processing
 Spatial techniques for image processing in Matlab
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Spatial techniques for image processing in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_Functions_and_Spatial_Techniques_for_Image_Processing (date of access: XX.XX.XXXX)
 
